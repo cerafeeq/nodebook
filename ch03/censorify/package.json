@@ -1,0 +1,9 @@
+{
+	"author": "Rafeeq CE",
+	"name": "censorify",
+	"version": "0.1.1",
+	"dependencies": {},
+	"engines": {
+		"node": "*"
+	}
+}
