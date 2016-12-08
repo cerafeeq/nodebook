@@ -1,0 +1,10 @@
+{
+	"author": "Rafeeq CE",
+	"name": "readwords",
+	"version": "0.1.1",
+	"main": "readwords",
+	"dependencies": {},
+	"engines": {
+		"node": "*"
+	}
+}
